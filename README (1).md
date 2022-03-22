@@ -13,10 +13,6 @@ the use can dynamically change the pictures based on what the user want
 look like.
 
 
-# Api Made Easy Team 
-
-Michael Francois
-
 
 # Features
 
